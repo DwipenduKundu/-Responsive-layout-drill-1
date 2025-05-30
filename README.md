@@ -1,2 +1,2 @@
 # You can go to codepen link and see this directly:
-[link](https://codepen.io/Dwipendu-Kundu/pen/YPXyKze)# -Responsive-layout-drill-1
+[link](https://codepen.io/Dwipendu-Kundu/pen/YPXyKze)
